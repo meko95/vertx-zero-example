@@ -1,0 +1,15 @@
+cn/vertxup/AresLoader.class
+up/zero/service/DemoApi.class
+cn/vertxup/AresAgent.class
+up/zero/domain/tables/daos/CiDeptDao.class
+up/zero/domain/DbRbac.class
+up/zero/domain/tables/pojos/CiDept.class
+up/zero/domain/Keys.class
+up/zero/domain/Indexes.class
+up/zero/domain/Keys$UniqueKeys0.class
+up/zero/domain/Indexes$Indexes0.class
+up/zero/domain/tables/interfaces/ICiDept.class
+up/zero/domain/tables/CiDept.class
+up/zero/domain/Tables.class
+up/zero/domain/DefaultCatalog.class
+up/zero/domain/tables/records/CiDeptRecord.class

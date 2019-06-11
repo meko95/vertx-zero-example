@@ -1,0 +1,187 @@
+2019-06-04 11:44:20,192 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:44:20,195 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:44:20,409 [main] WARN       io.vertx.tp.plugin.excel.ExcelInfix - io.vertx.zero.exception.ConfigKeyMissingException: [ERR-40020] (ExcelInfix) ZeroException occus: Zero system could not find the config of key = excel, please check your configurations.
+2019-06-04 11:44:47,709 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:44:47,712 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:44:47,845 [main] WARN       io.vertx.tp.plugin.excel.ExcelInfix - io.vertx.zero.exception.heart.EmptyStreamException: [ ZERO ] Empty stream exception found when ke/rules/excel.yml, caused = null.
+2019-06-04 11:44:48,522 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 11:44:48,529 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:44:48,533 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:44:48,537 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:44:48,539 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:44:48,539 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:44:48,540 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:45:31,253 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:45:31,256 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:45:31,864 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 11:45:31,869 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:45:31,873 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:45:31,878 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:45:31,879 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:45:31,880 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:45:31,881 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 0
+2019-06-04 11:46:46,261 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:46:46,265 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:46:46,887 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 11:46:46,895 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:47:06,897 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:47:06,900 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:47:07,530 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 11:47:07,537 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:47:57,039 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:47:57,043 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:47:57,673 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 11:47:57,680 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:50:49,800 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:50:49,803 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:50:50,414 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 11:50:50,422 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:51:45,315 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:51:45,318 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:51:45,956 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Row Range: RowBound{start=0, end=5}
+2019-06-04 11:51:45,963 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:51:45,969 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Column Range: io.vertx.tp.plugin.excel.ranger.ColBound@37fbe9f3
+2019-06-04 11:52:13,914 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:52:13,918 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:52:14,559 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Row Range: RowBound{start=0, end=5}
+2019-06-04 11:52:14,567 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:52:14,573 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Column Range: io.vertx.tp.plugin.excel.ranger.ColBound@60ee6021
+2019-06-04 11:53:13,410 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:53:13,413 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:53:14,009 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Row Range: RowBound{start=0, end=5}
+2019-06-04 11:53:14,023 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:53:14,076 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Column Range: io.vertx.tp.plugin.excel.ranger.ColBound@7ef5fb85
+2019-06-04 11:54:04,947 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:54:04,950 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:54:05,580 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Row Range: RowBound{start=0, end=5}
+2019-06-04 11:54:05,587 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:54:05,593 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Column Range: io.vertx.tp.plugin.excel.ranger.ColBound@23b38f23
+2019-06-04 11:57:36,595 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 11:57:36,598 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 11:57:37,403 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Row Range: RowBound{start=0, end=5}
+2019-06-04 11:57:37,411 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 11:57:37,418 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Column Range: ColBound{start=0, end=8}
+2019-06-04 12:17:02,506 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:17:02,510 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:17:03,135 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:17:03,142 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:17:20,155 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:17:20,158 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:17:20,793 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:17:20,801 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:17:57,720 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:17:57,722 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:17:58,342 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:17:58,350 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:30:06,265 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:30:06,269 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:30:06,870 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:30:06,878 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:32:42,998 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:32:43,001 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:32:43,148 [main] WARN       io.vertx.tp.plugin.excel.ExcelInfix - io.vertx.zero.exception.heart.EmptyStreamException: [ ZERO ] Empty stream exception found when ke/rules/excel.mapping.yml, caused = null.
+2019-06-04 12:32:43,610 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:32:43,618 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:33:47,969 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:33:47,972 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:33:48,123 [main] WARN       io.vertx.tp.plugin.excel.ExcelInfix - io.vertx.zero.exception.heart.EmptyStreamException: [ ZERO ] Empty stream exception found when ke/rules/excel.mapping.yml, caused = null.
+2019-06-04 12:33:48,600 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:33:48,609 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:36:04,604 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:36:04,607 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:36:04,777 [main] WARN       io.vertx.tp.plugin.excel.ExcelInfix - io.vertx.zero.exception.heart.EmptyStreamException: [ ZERO ] Empty stream exception found when ke/rules/excel.mapping.S_USER.yml, caused = null.
+2019-06-04 12:36:05,554 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:36:05,566 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:37:07,787 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:37:07,791 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:37:08,423 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:37:08,431 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:41:06,463 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:41:06,466 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:41:07,268 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:41:07,280 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 12:41:35,768 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 12:41:35,771 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 12:41:36,440 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 12:41:36,448 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 13:09:36,182 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 13:09:36,185 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 13:09:36,845 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 13:09:36,852 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 13:25:47,455 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 13:25:47,458 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 13:25:47,742 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 13:25:48,318 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 13:25:48,329 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 13:28:36,979 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 13:28:36,982 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 13:28:37,232 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 13:28:37,678 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 13:28:37,686 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 13:33:44,937 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 13:33:44,940 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 13:33:45,155 [main] WARN       io.vertx.tp.plugin.excel.ExcelInfix - io.vertx.zero.exception.heart.EmptyStreamException: [ ZERO ] Empty stream exception found when ke/rules/excel.mapping.unique.yml, caused = null.
+2019-06-04 13:33:45,199 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 13:33:45,652 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 13:33:45,659 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 13:34:36,794 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 13:34:36,797 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 13:34:37,052 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 13:34:37,508 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 13:34:37,516 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 13:37:19,808 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 13:37:19,811 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 13:37:20,060 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 13:37:20,512 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 13:37:20,519 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 13:38:31,218 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 13:38:31,220 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 13:38:31,472 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 13:38:31,914 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 13:38:31,922 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 14:08:23,191 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 14:08:23,195 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 14:08:23,482 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 14:08:24,044 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 14:08:24,055 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 14:08:24,073 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Table: S_USER, Data Size: 2
+2019-06-04 14:08:24,074 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Filters: {"sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:08:24,097 [vert.x-eventloop-thread-0] WARN         io.vertx.tp.plugin.jooq.JooqInfix - io.vertx.zero.exception.JooqVertxNullException: [ERR-40060] (SUserDao) ZeroException occus: (Jooq) Infix Jooq require vertx environment, but now vertx is null.
+2019-06-04 14:08:47,101 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 14:08:47,104 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 14:08:47,381 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 14:08:53,110 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 14:08:53,117 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 14:08:53,132 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Table: S_USER, Data Size: 2
+2019-06-04 14:08:53,134 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Filters: {"sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:08:53,380 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Query ) Mode selected LINEAR, filters raw = {"sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:08:53,412 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Jooq -> Condition ) Parsed result is 
+condition = 
+SIGMA = 'kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd'.
+2019-06-04 14:08:53,730 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Filters: {"sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:08:53,730 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Query ) Mode selected LINEAR, filters raw = {"sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:08:53,731 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Jooq -> Condition ) Parsed result is 
+condition = 
+SIGMA = 'kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd'.
+2019-06-04 14:15:09,416 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( jooq = io.vertx.tp.plugin.jooq.JooqInfix )
+2019-06-04 14:15:09,418 [main] INFO               io.vertx.up.web.ZeroAmbient - [ ZERO ] The raw data ( node = inject ) has been detected plugin ( shared = io.vertx.up.plugin.shared.MapInfix )
+2019-06-04 14:15:09,672 [main] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Configuration finished: 1
+2019-06-04 14:15:15,351 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scan Range: RowBound{start=0, end=5}
+2019-06-04 14:15:15,359 [vert.x-eventloop-thread-0] INFO    io.vertx.tp.plugin.excel.SheetAnalyzer - [ Excel ] Scanned sheet: DATA-USER, tables = 1
+2019-06-04 14:15:15,371 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Table: S_USER, Data Size: 2
+2019-06-04 14:15:15,374 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Filters: {"username":"admin","sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:15:15,626 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Query ) Mode selected LINEAR, filters raw = {"username":"admin","sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:15:15,658 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Jooq -> Condition ) Parsed result is 
+condition = 
+(
+  USERNAME = 'admin'
+  and SIGMA = 'kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd'
+).
+2019-06-04 14:15:15,953 [vert.x-eventloop-thread-0] INFO  io.vertx.tp.plugin.excel.ExcelClientImpl - [ Excel ] Filters: {"username":"lang.yu","sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:15:15,954 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Query ) Mode selected LINEAR, filters raw = {"username":"lang.yu","sigma":"kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd","":true}
+2019-06-04 14:15:15,954 [vert.x-eventloop-thread-0] INFO                 io.vertx.up.aiki.JooqCond - [ ZERO ] ( Jooq -> Condition ) Parsed result is 
+condition = 
+(
+  USERNAME = 'lang.yu'
+  and SIGMA = 'kbm9LQBAsm8BPJQ7AIG9MVDgaF7azrWd'
+).

@@ -1,0 +1,11 @@
+up/god/Anchor.class
+up/god/micro/fix/EmployeeWorker.class
+up/god/micro/rpc/SingleApi.class
+up/god/micro/rpc/FutureApi.class
+up/god/micro/multi/MultiWorker.class
+up/god/micro/multi/MultiApi.class
+up/god/micro/rpc/FutureWorker.class
+up/god/micro/upload/AttachmentApi.class
+up/god/micro/rpc/SingleWorker.class
+up/god/micro/fix/EmployeeApi.class
+up/god/micro/upload/AttachmentWorker.class

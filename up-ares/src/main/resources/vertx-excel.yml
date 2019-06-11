@@ -1,0 +1,9 @@
+excel:
+  config:
+    mapping:
+      - table: CI_DEPT
+        pojo: up.zero.domain.tables.pojos.CiDept
+        dao: up.zero.domain.tables.daos.CiDeptDao
+        unique:
+          - code
+          - appId

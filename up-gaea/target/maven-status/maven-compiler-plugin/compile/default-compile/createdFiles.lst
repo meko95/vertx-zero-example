@@ -1,0 +1,5 @@
+up/god/Anchor.class
+up/god/micro/tabular/DbWorker.class
+up/god/micro/tabular/DbApi.class
+up/god/micro/mongo/MongoApi.class
+up/god/micro/mongo/MongoWorker.class

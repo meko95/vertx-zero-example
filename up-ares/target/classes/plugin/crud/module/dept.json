@@ -1,0 +1,32 @@
+{
+    "name": "dept",
+    "daoCls": "up.zero.domain.tables.daos.CiDeptDao",
+    "pojoCls": "up.zero.domain.tables.pojos.CiDept",
+    "field": {
+        "key": "key",
+        "unique": [
+            [
+                "code",
+                "appId"
+            ]
+        ],
+        "created": {
+            "by": "createdBy",
+            "at": "createdAt"
+        },
+        "updated": {
+            "by": "updatedBy",
+            "at": "updatedAt"
+        }
+    },
+    "header": {
+        "appId": "X-App-Id"
+    },
+    "column": {
+        "actor": "module",
+        "condition": [
+            "appId",
+            "user"
+        ]
+    }
+}
