@@ -5,43 +5,17 @@
     <parent>
         <artifactId>vertx-import</artifactId>
         <groupId>cn.vertxup</groupId>
-        <version>0.4.11-SNAPSHOT</version>
+        <version>0.5.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
-    <version>0.4.11-SNAPSHOT</version>
+    <version>0.5.1-SNAPSHOT</version>
     <modules>
-        <module>up-athena</module>
-        <module>up-apollo</module>
-        <module>up-hecate</module>
-        <module>up-gaea</module>
-        <module>up-uranus</module>
-        <module>up-cronus</module>
-        <module>up-rhea</module>
-        <module>up-oceanus</module>
-        <module>up-tethys</module>
-        <module>up-hyperion</module>
-        <module>up-thea</module>
-        <module>up-mnemosyne</module>
-        <module>up-lapetus</module>
-        <module>up-crius</module>
-        <module>up-themis</module>
-        <module>up-phoebe</module>
-        <module>up-coeus</module>
-        <module>up-prometheus</module>
-        <module>up-epimetheus</module>
-        <module>up-atlas</module>
-        <module>up-metis</module>
-        <module>up-hera</module>
-        <module>up-poseidon</module>
-        <module>up-demeter</module>
-        <module>up-hestia</module>
-        <module>up-ares</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
     </properties>
-    <artifactId>vertx-zeus</artifactId>
+    <artifactId>vertx-zero-example</artifactId>
     <name>( Zero Mesh Example ) Zeus Framework</name>
     <dependencies>
         <!-- Lombok -->

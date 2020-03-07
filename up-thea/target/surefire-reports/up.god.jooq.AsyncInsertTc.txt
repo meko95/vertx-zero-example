@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: up.god.jooq.AsyncInsertTc
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.475 s - in up.god.jooq.AsyncInsertTc
