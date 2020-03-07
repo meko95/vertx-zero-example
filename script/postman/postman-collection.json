@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "c1f425c9-1e0e-48c1-87d1-7cb4f302d3bd",
+		"name": "～零之遥～",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1. 启航：Zero",
+			"item": [
+				{
+					"name": "/hi/zero-string",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/hi/zero-string",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"hi",
+								"zero-string"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/hi/zero-json",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/hi/zero-json",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"hi",
+								"zero-json"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
