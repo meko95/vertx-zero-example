@@ -11,12 +11,13 @@
     <packaging>pom</packaging>
     <version>0.5.1-SNAPSHOT</version>
     <modules>
+        <module>up-apollo</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
     </properties>
     <artifactId>vertx-zero-example</artifactId>
-    <name>( Zero Mesh Example ) Zeus Framework</name>
+    <name>Zero Epic Fabric教程</name>
     <dependencies>
         <!-- Lombok -->
         <dependency>
