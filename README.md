@@ -24,7 +24,7 @@
 
 >  我一直在思考使用什么样的方式来写教程，如果告别了曾经那种概念，是不是会写成空中楼阁一样只有代码和“招式”的东西，沉淀下来，还是简单点吧（图、代码、解说一步到位），不过项目名称还是沿用希腊神话中的诸神之名，含义为：以诸神之名开启零之誓约。
 
-　　Zero目前的版本中仅支持Maven，最新版为`0.5.2-SNAPSHOT`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
+　　Zero目前的版本中仅支持Maven，最新版为`0.5.3-SNAPSHOT`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
 
 
 ### 2.1. 环境
@@ -35,7 +35,7 @@
     <parent>
         <artifactId>vertx-import</artifactId>
         <groupId>cn.vertxup</groupId>
-        <version>0.5.1</version>
+        <version>0.5.2</version>
     </parent>
 ```
 
@@ -48,10 +48,10 @@ import io.vertx.up.VertxApplication;
 import io.vertx.up.annotations.Up;
 
 @Up
-public class ApolloAgent {
+public class ApolloUp {
 
     public static void main(final String[] args) {
-        VertxApplication.run(ApolloAgent.class);
+        VertxApplication.run(ApolloUp.class);
     }
 }
 ```
