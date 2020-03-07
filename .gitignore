@@ -101,3 +101,4 @@ backup
 .Archive/
 .markeditor/
 configs
+*/.markeditor
