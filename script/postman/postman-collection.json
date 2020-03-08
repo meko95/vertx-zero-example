@@ -43,6 +43,192 @@
 						}
 					},
 					"response": []
+				},
+				{
+					"name": "/hi/zero-four",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/hi/zero-four",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"hi",
+								"zero-four"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/hi/zero-four",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/hi/zero-four",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"hi",
+								"zero-four"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/hi/zero-four",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/hi/zero-four",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"hi",
+								"zero-four"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/hi/zero-four",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/hi/zero-four",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"hi",
+								"zero-four"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/hi/zero-oneway",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/hi/zero-oneway",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"hi",
+								"zero-oneway"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "2. 曲径通幽：@Path",
+			"item": [
+				{
+					"name": "/path/100",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/path/100",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"path",
+								"100"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/path/200",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/path/200",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"path",
+								"200"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/path/300",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/path/300",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"path",
+								"300"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/path/400",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/path/400",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"path",
+								"400"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/path/500",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{PUB}}/path/500",
+							"host": [
+								"{{PUB}}"
+							],
+							"path": [
+								"path",
+								"500"
+							]
+						}
+					},
+					"response": []
 				}
 			],
 			"protocolProfileBehavior": {}
