@@ -102,3 +102,4 @@ backup
 .markeditor/
 configs
 */.markeditor
+.idea
