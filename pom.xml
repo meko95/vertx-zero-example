@@ -17,7 +17,7 @@
         <maven.deploy.skip>true</maven.deploy.skip>
     </properties>
     <artifactId>vertx-zero-example</artifactId>
-    <name>Zero Epic Fabric教程</name>
+    <name>0.～Zero Epic Fabric教程～</name>
     <dependencies>
         <!-- Lombok -->
         <dependency>
