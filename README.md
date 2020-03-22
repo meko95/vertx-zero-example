@@ -69,5 +69,6 @@ public class ApolloUp {
 
 1. [启航：Zero](document/apollo/001.apollo.first.md)
 2. [曲径通幽：@Path](document/apollo/002.apollo.uri.md)
+3. [四叶葎：Http方法](document/apollo/003.apollo.method.md)
 
 ## COPYRIGHT IN CHINA
