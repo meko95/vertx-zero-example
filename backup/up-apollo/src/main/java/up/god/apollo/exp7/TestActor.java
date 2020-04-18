@@ -18,6 +18,6 @@ public class TestActor {
     @Address("ZERO://EXP7/WRONG")
     public void wrong(final Message<Envelop> message) {
         Future.failedFuture(Ux.toError(_90001Exception.class, getClass()))
-                .setHandler(Ux.toHandler(message));
+                .onComplete(Ux.toHandler(message));
     }
 }

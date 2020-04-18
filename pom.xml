@@ -12,6 +12,7 @@
     <version>0.1</version>
     <modules>
         <module>up-apollo</module>
+        <module>up-ares</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
