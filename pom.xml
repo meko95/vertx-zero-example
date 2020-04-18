@@ -26,6 +26,12 @@
             <artifactId>lombok</artifactId>
             <scope>provided</scope>
         </dependency>
+        <!-- Extension -->
+        <dependency>
+            <groupId>cn.vertxup</groupId>
+            <artifactId>zero-ambient</artifactId>
+            <version>${zero.version}</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

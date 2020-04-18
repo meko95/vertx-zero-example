@@ -65,7 +65,7 @@ public class ApolloUp {
 
 ### 2.2. 零之遥（Απόλλων）
 
-#### 项目：up-apollo
+#### up-apollo
 
 1. [启航：Zero](document/apollo/001.apollo.first.md)
 2. [曲径通幽：@Path](document/apollo/002.apollo.uri.md)
