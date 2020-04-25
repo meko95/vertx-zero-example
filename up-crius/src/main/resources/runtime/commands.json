@@ -1,0 +1,27 @@
+[
+    {
+        "simple": "t",
+        "name": "tool",
+        "type": "SYSTEM",
+        "description": "工具箱",
+        "commands": [
+            {
+                "simple": "j",
+                "name": "json",
+                "description": "将建模 Excel 转换成 Json 格式的定义文件。",
+                "arguments": [
+                    {
+                        "simple": "i",
+                        "name": "input",
+                        "description": "Excel文件路径，默认：runtime/excel/schema/"
+                    },
+                    {
+                        "simple": "o",
+                        "name": "output",
+                        "description": "输入文件路径，默认：runtime/json/"
+                    }
+                ]
+            }
+        ]
+    }
+]

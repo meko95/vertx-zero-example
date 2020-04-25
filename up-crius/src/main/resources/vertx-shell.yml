@@ -1,0 +1,36 @@
+shell:
+  config:
+    welcome:
+      banner: "Ox Engine Shell ( γραμμή εντολών )"
+      version: "1.0"
+      message:
+        environment: "运行环境：{0}"
+        wait: "请输入命令，使用 h 可查看帮助文档"
+        quit: "您已经成功推出控制台！Successfully"
+        header: "CMDB后台命令行"
+        footer: "版权: 深圳招为科技 Ver.1.0"
+        empty: "[ Error ] 您还没有输入任何命令，请输入合法命令！"
+        usage: "基本语法：（子系统和命令不带 - 前缀）
+                 \t SYSTEM：<命令> 进入子系统
+                 \t COMMAND: <命令> [参数] 根据输入参数执行命令
+                 \t Options: 参数格式 -name1 value1 -name2 value2"
+    commands: "runtime/commands.json"
+    validate:
+      input:
+        required: "参数缺失或者长度不匹配（长度只能为1），请输入合法参数！"
+        existing: "请输入合法的参数，参数列表：{0}，当前输入：`{1}`"
+      args:
+        - start
+        - config
+        - dev
+    commandsBack:
+      name: back
+      simple: b
+      description: "<< 返回上级"
+    commandsDefault:
+      - name: help
+        simple: h
+        description: "帮助文档"
+      - name: quit
+        simple: q
+        description: "退出控制台"

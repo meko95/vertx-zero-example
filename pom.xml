@@ -13,6 +13,7 @@
     <modules>
         <module>up-apollo</module>
         <module>up-ares</module>
+        <module>up-crius</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
@@ -25,6 +26,12 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <scope>provided</scope>
+        </dependency>
+        <!-- Infix -->
+        <dependency>
+            <groupId>cn.vertxup</groupId>
+            <artifactId>zero-ifx-shell</artifactId>
+            <version>${zero.version}</version>
         </dependency>
         <!-- Extension -->
         <dependency>
