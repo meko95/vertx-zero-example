@@ -3,16 +3,18 @@
         "name": "help",
         "simple": "h",
         "description": "帮助文档",
+        "config": {
+            "header": {
+                "name": "命令名称",
+                "simple": "简写",
+                "description": "使用描述"
+            }
+        },
         "options": [
             {
                 "simple": "c",
                 "name": "command",
-                "description": "请输入查看帮助命令",
-                "config": {
-                    "name": "命令名称",
-                    "simple": "简写",
-                    "description": "使用描述"
-                }
+                "description": "请输入查看帮助命令"
             }
         ]
     },
