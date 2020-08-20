@@ -27,7 +27,7 @@
 　　Zero目前的版本中仅支持Maven，最新版为`0.5.3-SNAPSHOT`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
 
 
-### 2.1. 环境
+### 环境
 
 　　在您的Maven项目的 `pom.xml` 文件中引入以下配置（推荐使用正式版）：
 
@@ -63,14 +63,14 @@ public class ApolloUp {
          Endpoint: http://198.18.21.28:6083/.
 ```
 
-### 2.2. 零之遥（Απόλλων）
+## 教程列表
 
-#### up-apollo
+### 1. 零之遥（Απόλλων）
 
-1. [启航：Zero](document/apollo/001.apollo.first.md)
-2. [曲径通幽：@Path](document/apollo/002.apollo.uri.md)
-3. [四叶葎：Http方法](document/apollo/003.apollo.method.md)
-4. [思无邪：入参](document/apollo/004.apollo.param.md)
-5. [孤城暗雪：验证](document/apollo/005.apollo.validation.md)
+* [1.1.启航：Zero](document/apollo/001.apollo.first.md)
+* [1.2.曲径通幽：@Path](document/apollo/002.apollo.uri.md)
+* [1.3.四叶葎：Http方法](document/apollo/003.apollo.method.md)
+* [1.4.思无邪：入参](document/apollo/004.apollo.param.md)
+* [1.5.孤城暗雪：验证](document/apollo/005.apollo.validation.md)
 
 ## COPYRIGHT IN CHINA
