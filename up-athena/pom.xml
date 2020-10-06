@@ -11,6 +11,10 @@
 
     <artifactId>up-athena</artifactId>
     <name>4.～侧庭石～</name>
-
-
+    <dependencies>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+    </dependencies>
 </project>
