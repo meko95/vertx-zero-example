@@ -4,7 +4,6 @@ import cn.vertxup.demo.AbstractJq;
 import cn.vertxup.demo.domain.tables.pojos.XTabular;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.unit.TestContext;
-import io.vertx.tp.plugin.redis.RedisInfix;
 import io.vertx.up.uca.jooq.UxJooq;
 import org.junit.Test;
 
@@ -13,9 +12,7 @@ import org.junit.Test;
  * 全异步查询
  */
 public class ReadAsyncTc extends AbstractJq {
-    static {
-        RedisInfix.init(VERTX);
-    }
+
 
     public void setUp() {
         final JsonObject json = this.ioJObject("insert-Fetch1-cache.json");
@@ -31,7 +28,7 @@ public class ReadAsyncTc extends AbstractJq {
      */
     @Test
     public void testFetch1(final TestContext context) throws Throwable {
-        this.async(context, this.dao().fetchByIdAsync("975c9cf9-4505-4856-a1d3-31f5ce83e860"), actual -> {
+        this.async(context, this.dao().fetchByIdAsync(HelpData.ID_OK), actual -> {
             System.out.println(actual);
             context.assertNotNull(actual);
         });
@@ -121,59 +118,6 @@ public class ReadAsyncTc extends AbstractJq {
         this.async(context, this.dao().fetchByIdAsync("X75c9cf9-4505-4856-a1d3-31f5ce83e860"), actual -> {
             System.out.println(actual);
             context.assertNull(actual);
-        });
-        Thread.sleep(2000);
-    }
-
-    /*
-     * 场景8：按主键检查数据
-     */
-    @Test
-    public void testExist1(final TestContext context) throws Throwable {
-        this.async(context, this.dao().existByIdAsync("975c9cf9-4505-4856-a1d3-31f5ce83e860"), actual -> {
-            System.out.println(actual);
-            context.assertTrue(actual);
-        });
-        Thread.sleep(2000);
-    }
-
-    /*
-     * 场景9：按主键查询不存在
-     */
-    @Test
-    public void testExist2(final TestContext context) throws Throwable {
-        this.async(context, this.dao().existByIdAsync("X75c9cf9-4505-4856-a1d3-31f5ce83e860"), actual -> {
-            System.out.println(actual);
-            context.assertFalse(actual);
-        });
-        Thread.sleep(2000);
-    }
-
-    /*
-     * 场景10：按条件查询是否存在
-     */
-    @Test
-    public void testExist3(final TestContext context) throws Throwable {
-        final JsonObject condition = new JsonObject();
-        condition.put("type", "test.type1");
-        this.async(context, this.dao().existAsync(condition), actual -> {
-            System.out.println(actual);
-            context.assertTrue(actual);
-        });
-        Thread.sleep(2000);
-    }
-
-
-    /*
-     * 场景10：按条件查询不存在
-     */
-    @Test
-    public void testExist4(final TestContext context) throws Throwable {
-        final JsonObject condition = new JsonObject();
-        condition.put("type", "test.type2");
-        this.async(context, this.dao().existAsync(condition), actual -> {
-            System.out.println(actual);
-            context.assertFalse(actual);
         });
         Thread.sleep(2000);
     }

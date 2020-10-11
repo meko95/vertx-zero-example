@@ -5,6 +5,7 @@ import cn.vertxup.demo.domain.tables.pojos.XTabular;
 import io.vertx.core.json.JsonObject;
 import io.vertx.quiz.JooqBase;
 import io.vertx.tp.plugin.jooq.JooqInfix;
+import io.vertx.tp.plugin.redis.RedisInfix;
 import io.vertx.up.uca.jooq.UxJooq;
 import io.vertx.up.unity.Ux;
 import io.vertx.up.util.Ut;
@@ -15,6 +16,7 @@ import io.vertx.up.util.Ut;
 public class AbstractJq extends JooqBase {
     static {
         JooqInfix.init(VERTX);
+        RedisInfix.init(VERTX);
     }
 
     protected XTabular data(final String file) {
