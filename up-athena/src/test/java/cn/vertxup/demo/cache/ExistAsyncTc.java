@@ -1,6 +1,6 @@
 package cn.vertxup.demo.cache;
 
-import cn.vertxup.demo.AbstractJq;
+import cn.vertxup.demo.util.AbstractJq;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.unit.TestContext;
 import org.junit.Test;

@@ -1,7 +1,7 @@
 package cn.vertxup.demo.pure;
 
-import cn.vertxup.demo.AbstractJq;
 import cn.vertxup.demo.domain.tables.pojos.XTabular;
+import cn.vertxup.demo.util.AbstractJq;
 import io.vertx.ext.unit.TestContext;
 import io.vertx.up.uca.jooq.UxJooq;
 import org.junit.Test;
@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * @author <a href="http://www.origin-x.cn">lang</a>
  */
-public class InsertTTc extends AbstractJq {
+public class InsertTAsyncTc extends AbstractJq {
     /*
      * 直接的增删改测试大场景
      */

@@ -1,7 +1,7 @@
 package cn.vertxup.demo.cache;
 
-import cn.vertxup.demo.AbstractJq;
 import cn.vertxup.demo.domain.tables.pojos.XTabular;
+import cn.vertxup.demo.util.AbstractJq;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.unit.TestContext;
 import io.vertx.up.uca.jooq.UxJooq;

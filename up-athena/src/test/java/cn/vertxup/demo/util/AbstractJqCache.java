@@ -1,4 +1,4 @@
-package cn.vertxup.demo;
+package cn.vertxup.demo.util;
 
 import io.vertx.tp.plugin.redis.RedisInfix;
 
