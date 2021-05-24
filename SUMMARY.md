@@ -13,7 +13,7 @@
     * [2.1.珷玞：Jooq](document/athena/001.athena.jooq.md)
     * [2.2.珠玉在侧：容错](document/athena/002.athena.error.md)
 * [3.斜阳沉（Ηλιοβασίλεμα）](document/aim/000.aim.index.md)
-    * [3.1.羽裳：Reference](document/aim/001.aim.reference.md)
+    * [3.1.羽裳：Attribute](document/aim/001.aim.reference.md)
 
 
 ## 前端（Zero Ui）

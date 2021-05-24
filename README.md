@@ -80,7 +80,7 @@ public class ApolloUp {
 
 ### 3.3. 斜阳沉（Ηλιοβασίλεμα）
     
-* [3.1.羽裳：Reference](document/aim/001.aim.reference.md)
+* [3.1.羽裳：Attribute](document/aim/001.aim.reference.md)
 
 ## 4. 前端教程（Zero Ui）
 
