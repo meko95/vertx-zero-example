@@ -80,7 +80,7 @@ public class ApolloUp {
 
 ### 3.燕尾牌（Κατάπιε την τελευταία κάρτα）
 
-* [3.1.紫苑：RBAC](document/aim/001.aim.rbac.md)
+* [3.1.四象之疆：RBAC](document/aim/001.aim.rbac.md)
 
 ## 4. 前端教程（Zero Ui）
 

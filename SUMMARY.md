@@ -13,7 +13,7 @@
     * [2.1.珷玞：Jooq](document/athena/001.athena.jooq.md)
     * [2.2.珠玉在侧：容错](document/athena/002.athena.error.md)
 * [3.燕尾牌（Κατάπιε την τελευταία κάρτα）](document/aim/000.aim.index.md)
-    * [3.1.紫苑：RBAC](document/aim/001.aim.rbac.md)
+    * [3.1.四象之疆：RBAC](document/aim/001.aim.rbac.md)
 
 ## 前端（Zero Ui）
 
