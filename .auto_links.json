@@ -5,6 +5,12 @@
         "_title": "005.apollo.validation", 
         "title": "005.apollo.validation\n/document/apollo/005.apollo.validation.md"
     }, 
+    "/document/apollo/006.apollo.async.md": {
+        "url": "", 
+        "path": "/document/apollo/006.apollo.async.md", 
+        "_title": "006.apollo.async", 
+        "title": "006.apollo.async\n/document/apollo/006.apollo.async.md"
+    }, 
     "/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt": {
         "url": "", 
         "path": "/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt", 
@@ -28,6 +34,18 @@
         "path": "/document/ui/001.ui.structure.md", 
         "_title": "001.ui.structure", 
         "title": "001.ui.structure\n/document/ui/001.ui.structure.md"
+    }, 
+    "/document/apollo/007.apollo.security.md": {
+        "url": "", 
+        "path": "/document/apollo/007.apollo.security.md", 
+        "_title": "007.apollo.security", 
+        "title": "007.apollo.security\n/document/apollo/007.apollo.security.md"
+    }, 
+    "/document/apollo/008.apollo.error.md": {
+        "url": "", 
+        "path": "/document/apollo/008.apollo.error.md", 
+        "_title": "008.apollo.error", 
+        "title": "008.apollo.error\n/document/apollo/008.apollo.error.md"
     }, 
     "/document/apollo/000.apollo.index.md": {
         "url": "", 
@@ -100,6 +118,12 @@
         "path": "/micro/README.txt", 
         "_title": "README", 
         "title": "README\n/micro/README.txt"
+    }, 
+    "/document/apollo/006.apollo.security.md": {
+        "url": "", 
+        "path": "/document/apollo/006.apollo.security.md", 
+        "_title": "006.apollo.security", 
+        "title": "006.apollo.security\n/document/apollo/006.apollo.security.md"
     }, 
     "/document/aim/001.aim.atom.md": {
         "url": "", 
