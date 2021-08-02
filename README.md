@@ -77,10 +77,11 @@ public class ApolloUp {
 
 * [2.1.珷玞：Jooq](document/athena/001.athena.jooq.md)
 * [2.2.珠玉在侧：容错](document/athena/002.athena.error.md)
+* [2.3.高墙：安全](document/athena/003.athena.security.md)
 
-### 3.燕尾牌（Κατάπιε την τελευταία κάρτα）
+### 3.3. 燕尾牌（Κατάπιε την τελευταία κάρτα）
 
-* [3.1.四象之疆：RBAC](document/aim/001.aim.rbac.md)
+* [3.1.燎原之疆：RBAC](document/aim/001.aim.rbac.md)
 
 ## 4. 前端教程（Zero Ui）
 
