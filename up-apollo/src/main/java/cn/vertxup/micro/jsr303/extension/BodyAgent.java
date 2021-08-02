@@ -1,6 +1,5 @@
 package cn.vertxup.micro.jsr303.extension;
 
-
 import io.vertx.core.json.JsonObject;
 import io.vertx.up.annotations.Codex;
 import io.vertx.up.annotations.EndPoint;
