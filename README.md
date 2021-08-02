@@ -80,14 +80,6 @@ public class ApolloUp {
 
 * [2.1.珷玞：Jooq](document/athena/001.athena.jooq.md)
 
-## 4. 前端教程（Zero Ui）
-
->  为了将教程全部集中到一起讲解，所以补充Zero Ui的文档追加在Zero之后讲解。
-
-### 4.1. 顾河梁（Κοιτάζοντας πίσω στο ποτάμι）
-
-* [1.1.初赦：Zero Ui](document/ui/001.ui.structure.md)
-
 ## COPYRIGHT IN CHINA
 
 

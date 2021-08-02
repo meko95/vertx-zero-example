@@ -12,6 +12,7 @@
     <version>0.1</version>
     <modules>
         <module>up-apollo</module>
+        <module>up-rhea</module>
         <module>up-ares</module>
         <module>up-crius</module>
         <module>up-athena</module>
