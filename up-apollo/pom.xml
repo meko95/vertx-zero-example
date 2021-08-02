@@ -11,4 +11,10 @@
 
     <artifactId>up-apollo</artifactId>
     <name>1.～零之遥～.up-apollo</name>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
 </project>
