@@ -77,9 +77,9 @@ public class ApolloUp {
 * [1.3.四叶葎：Http方法](document/apollo/003.apollo.method.md)
 * [1.4.思无邪：入参](document/apollo/004.apollo.param.md)
 * [1.5.孤城暗雪：验证](document/apollo/005.apollo.validation.md)
-* [* 1.6.潘多拉魔盒：异步](document/apollo/006.apollo.async.md)
-* [- 1.7.虚之墙：安全](document/apollo/007.apollo.security.md)
-* [- 1.8.珠玉在侧：容错](document/apollo/008.apollo.error.md)
+* [1.6.潘多拉魔盒：异步](document/apollo/006.apollo.async.md)
+* [* 1.7.珠玉在侧：容错](document/apollo/007.apollo.error.md)
+* [- 1.8.虚之墙：安全](document/apollo/008.apollo.security.md)
 
 ### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
 
