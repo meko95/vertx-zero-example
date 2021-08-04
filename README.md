@@ -29,6 +29,8 @@ Zero公众号（申请微信群先加微信号：445191171）：
 
 Zero目前的版本中仅支持Maven，最新版为`0.6.0`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
 
+[写作过程的BUG表](document/bug.md)
+
 ### 环境
 
 在您的Maven项目的 `pom.xml` 文件中引入以下配置（推荐使用正式版，0.6.0已发布）：
@@ -78,8 +80,9 @@ public class ApolloUp {
 * [1.4.思无邪：入参](document/apollo/004.apollo.param.md)
 * [1.5.孤城暗雪：验证](document/apollo/005.apollo.validation.md)
 * [1.6.潘多拉魔盒：异步](document/apollo/006.apollo.async.md)
-* [* 1.7.珠玉在侧：容错](document/apollo/007.apollo.error.md)
-* [- 1.8.虚之墙：安全](document/apollo/008.apollo.security.md)
+* [1.7.珠玉在侧：容错](document/apollo/007.apollo.error.md)
+* [* 1.8.铁马冰河：细谈Worker](document/apollo/008.apollo.worker.md)
+* [- 1.9.虚之墙：安全](document/apollo/009.apollo.security.md)
 
 ### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
 

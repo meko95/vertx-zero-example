@@ -59,6 +59,12 @@
         "_title": "SUMMARY", 
         "title": "SUMMARY\n/SUMMARY.md"
     }, 
+    "/document/apollo/008.apollo.worker.md": {
+        "url": "", 
+        "path": "/document/apollo/008.apollo.worker.md", 
+        "_title": "008.apollo.worker", 
+        "title": "008.apollo.worker\n/document/apollo/008.apollo.worker.md"
+    }, 
     "/backup/up-ares/target/surefire-reports/io.vertx.tp.plugin.excel.ExcelClientTc.txt": {
         "url": "", 
         "path": "/backup/up-ares/target/surefire-reports/io.vertx.tp.plugin.excel.ExcelClientTc.txt", 
@@ -70,6 +76,12 @@
         "path": "/document/ui/000.ui.index.md", 
         "_title": "000.ui.index", 
         "title": "000.ui.index\n/document/ui/000.ui.index.md"
+    }, 
+    "/document/bug.md": {
+        "url": "", 
+        "path": "/document/bug.md", 
+        "_title": "bug", 
+        "title": "bug\n/document/bug.md"
     }, 
     "/document/apollo/004.apollo.param.md": {
         "url": "", 
@@ -88,6 +100,12 @@
         "path": "/document/apollo/008.apollo.security.md", 
         "_title": "008.apollo.security", 
         "title": "008.apollo.security\n/document/apollo/008.apollo.security.md"
+    }, 
+    "/document/apollo/009.apollo.security.md": {
+        "url": "", 
+        "path": "/document/apollo/009.apollo.security.md", 
+        "_title": "009.apollo.security", 
+        "title": "009.apollo.security\n/document/apollo/009.apollo.security.md"
     }, 
     "/document/aim/001.aim.rbac.md": {
         "url": "", 

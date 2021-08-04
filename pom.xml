@@ -22,20 +22,6 @@
     </properties>
     <artifactId>vertx-zero-example</artifactId>
     <name>0.～Zero Epic Fabric教程～</name>
-    <dependencies>
-        <!-- Infix -->
-        <dependency>
-            <groupId>cn.vertxup</groupId>
-            <artifactId>zero-ifx-shell</artifactId>
-            <version>${zero.version}</version>
-        </dependency>
-        <!-- Extension -->
-        <dependency>
-            <groupId>cn.vertxup</groupId>
-            <artifactId>zero-ambient</artifactId>
-            <version>${zero.version}</version>
-        </dependency>
-    </dependencies>
     <build>
         <plugins>
             <plugin>
