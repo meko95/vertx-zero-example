@@ -77,6 +77,12 @@
         "_title": "000.ui.index", 
         "title": "000.ui.index\n/document/ui/000.ui.index.md"
     }, 
+    "/document/bug.md": {
+        "url": "", 
+        "path": "/document/bug.md", 
+        "_title": "bug", 
+        "title": "bug\n/document/bug.md"
+    }, 
     "/document/apollo/004.apollo.param.md": {
         "url": "", 
         "path": "/document/apollo/004.apollo.param.md", 

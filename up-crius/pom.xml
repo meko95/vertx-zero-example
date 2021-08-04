@@ -11,5 +11,12 @@
 
     <artifactId>up-crius</artifactId>
     <name>4.～风之殇：将军令～.up-crius</name>
-
+    <dependencies>
+        <!-- Infix -->
+        <dependency>
+            <groupId>cn.vertxup</groupId>
+            <artifactId>zero-ifx-shell</artifactId>
+            <version>${zero.version}</version>
+        </dependency>
+    </dependencies>
 </project>
