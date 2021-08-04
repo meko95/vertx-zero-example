@@ -11,6 +11,12 @@
         "_title": "006.apollo.async", 
         "title": "006.apollo.async\n/document/apollo/006.apollo.async.md"
     }, 
+    "/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt": {
+        "url": "", 
+        "path": "/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt", 
+        "_title": "io.vertx.up.jooq.JooqAppTc", 
+        "title": "io.vertx.up.jooq.JooqAppTc\n/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt"
+    }, 
     "/up-apollo/target/classes/vertx-validation.txt": {
         "url": "", 
         "path": "/up-apollo/target/classes/vertx-validation.txt", 
@@ -34,18 +40,6 @@
         "path": "/document/ui/001.ui.structure.md", 
         "_title": "001.ui.structure", 
         "title": "001.ui.structure\n/document/ui/001.ui.structure.md"
-    }, 
-    "/document/apollo/007.apollo.security.md": {
-        "url": "", 
-        "path": "/document/apollo/007.apollo.security.md", 
-        "_title": "007.apollo.security", 
-        "title": "007.apollo.security\n/document/apollo/007.apollo.security.md"
-    }, 
-    "/document/apollo/008.apollo.error.md": {
-        "url": "", 
-        "path": "/document/apollo/008.apollo.error.md", 
-        "_title": "008.apollo.error", 
-        "title": "008.apollo.error\n/document/apollo/008.apollo.error.md"
     }, 
     "/document/apollo/000.apollo.index.md": {
         "url": "", 
@@ -83,23 +77,17 @@
         "_title": "bug", 
         "title": "bug\n/document/bug.md"
     }, 
-    "/document/apollo/004.apollo.param.md": {
+    "/document/apollo/007.apollo.error.md": {
         "url": "", 
-        "path": "/document/apollo/004.apollo.param.md", 
-        "_title": "004.apollo.param", 
-        "title": "004.apollo.param\n/document/apollo/004.apollo.param.md"
+        "path": "/document/apollo/007.apollo.error.md", 
+        "_title": "007.apollo.error", 
+        "title": "007.apollo.error\n/document/apollo/007.apollo.error.md"
     }, 
     "/document/aim/000.aim.index.md": {
         "url": "", 
         "path": "/document/aim/000.aim.index.md", 
         "_title": "000.aim.index", 
         "title": "000.aim.index\n/document/aim/000.aim.index.md"
-    }, 
-    "/document/apollo/008.apollo.security.md": {
-        "url": "", 
-        "path": "/document/apollo/008.apollo.security.md", 
-        "_title": "008.apollo.security", 
-        "title": "008.apollo.security\n/document/apollo/008.apollo.security.md"
     }, 
     "/document/apollo/009.apollo.security.md": {
         "url": "", 
@@ -143,17 +131,11 @@
         "_title": "README", 
         "title": "README\n/micro/README.txt"
     }, 
-    "/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt": {
+    "/document/apollo/004.apollo.param.md": {
         "url": "", 
-        "path": "/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt", 
-        "_title": "io.vertx.up.jooq.JooqAppTc", 
-        "title": "io.vertx.up.jooq.JooqAppTc\n/backup/up-metis/target/surefire-reports/io.vertx.up.jooq.JooqAppTc.txt"
-    }, 
-    "/document/apollo/007.apollo.error.md": {
-        "url": "", 
-        "path": "/document/apollo/007.apollo.error.md", 
-        "_title": "007.apollo.error", 
-        "title": "007.apollo.error\n/document/apollo/007.apollo.error.md"
+        "path": "/document/apollo/004.apollo.param.md", 
+        "_title": "004.apollo.param", 
+        "title": "004.apollo.param\n/document/apollo/004.apollo.param.md"
     }, 
     "/document/apollo/002.apollo.uri.md": {
         "url": "", 
