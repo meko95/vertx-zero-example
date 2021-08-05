@@ -27,22 +27,22 @@ Zero公众号（申请微信群先加微信号：445191171）：
 
 > 我一直在思考使用什么样的方式来写教程，如果告别了曾经那种概念，是不是会写成空中楼阁一样只有代码和“招式”的东西，沉淀下来，还是简单点吧（图、代码、解说一步到位），不过项目名称还是沿用希腊神话中的诸神之名，含义为：以诸神之名开启零之誓约。
 
-Zero目前的版本中仅支持Maven，最新版为`0.6.0`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
-
-[写作过程的BUG表](document/bug.md)
+Zero目前的版本中仅支持Maven，最新版为`0.6.1`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
 
 ### 环境
 
-在您的Maven项目的 `pom.xml` 文件中引入以下配置（推荐使用正式版，0.6.0已发布）：
+在您的Maven项目的 `pom.xml` 文件中引入以下配置（推荐使用正式版，0.6.1已发布）：
 
 ```xml
 
 <parent>
     <artifactId>vertx-import</artifactId>
     <groupId>cn.vertxup</groupId>
-    <version>0.6.0</version>
+    <version>0.6.1</version>
 </parent>
 ```
+
+**特殊说明：**写这套教程的过程中，我会验证所有的演示代码，验证过程的BUG以及最新的版本会在[BUG表](document/bug.md)中公布，不过由于教程先于框架，最终的框架版本以主页的最新版为主，而正文中所有的版本号都是写教程时的版本号。
 
 然后书写主程序：
 
@@ -81,8 +81,8 @@ public class ApolloUp {
 * [1.5.孤城暗雪：验证](document/apollo/005.apollo.validation.md)
 * [1.6.潘多拉魔盒：异步](document/apollo/006.apollo.async.md)
 * [1.7.珠玉在侧：容错](document/apollo/007.apollo.error.md)
-* [* 1.8.铁马冰河：细谈Worker](document/apollo/008.apollo.worker.md)
-* [- 1.9.虚之墙：安全](document/apollo/009.apollo.security.md)
+* [1.8.铁马冰河：细谈Worker](document/apollo/008.apollo.worker.md)
+* [* 1.9.虚之墙：安全](document/apollo/009.apollo.security.md)
 
 ### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
 

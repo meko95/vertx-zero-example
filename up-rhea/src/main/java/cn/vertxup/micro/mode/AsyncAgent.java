@@ -13,7 +13,7 @@ import javax.ws.rs.Path;
 public class AsyncAgent {
     @POST
     @Path("/one-way")
-    @Address("ZERO://ONE-WAY")
+    @Address("ZERO://MODE/ONE-WAY")
     public String sendOneWay(
             @BodyParam final JsonObject json) {
         return json.encode();
@@ -21,15 +21,15 @@ public class AsyncAgent {
 
     @POST
     @Path("/async")
-    @Address("ZERO://ASYNC")
-    public String sendAsync(
+    @Address("ZERO://MODE/ASYNC")
+    public JsonObject sendAsync(
             @BodyParam final JsonObject json) {
-        return json.encode();
+        return json;
     }
 
     @Path("/callback")
     @POST
-    @Address("ZERO://CALLBACK")
+    @Address("ZERO://MODE/CALLBACK")
     public JsonObject sayCallback(
             @BodyParam final JsonObject data) {
         return data;

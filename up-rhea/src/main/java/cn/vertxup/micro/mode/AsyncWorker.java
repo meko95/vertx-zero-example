@@ -9,21 +9,21 @@ import io.vertx.up.unity.Ux;
 
 @Queue
 public class AsyncWorker {
-    @Address("ZERO://ONE-WAY")
+    @Address("ZERO://MODE/ONE-WAY")
     public void reply(final Envelop message) {
-        final JsonObject data = Ux.getJson(message);
+        final String data = Ux.getString(message);
         // Do somethings
-        System.out.println(data.encodePrettily());
+        System.out.println(data);
     }
 
-    @Address("ZERO://ASYNC")
+    @Address("ZERO://MODE/ASYNC")
     public Envelop replyAsync(final Envelop message) {
         final JsonObject data = Ux.getJson(message);
         // Do somethings
         return Envelop.success(data);
     }
 
-    @Address("ZERO://CALLBACK")
+    @Address("ZERO://MODE/CALLBACK")
     public void replyCallback(final Message<Envelop> message) {
         message.reply(Envelop.success("Callback Success"));
     }
