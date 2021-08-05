@@ -105,3 +105,4 @@ configs
 .idea
 archive/
 file-uploads
+.auto_links.json
