@@ -42,7 +42,8 @@ Zero目前的版本中仅支持Maven，最新版为`0.6.1`，一直以`0`前缀�
 </parent>
 ```
 
-**特殊说明：**写这套教程的过程中，我会验证所有的演示代码，验证过程的BUG以及最新的版本会在[BUG表](document/bug.md)中公布，不过由于教程先于框架，最终的框架版本以主页的最新版为主，而正文中所有的版本号都是写教程时的版本号。
+**特殊说明：**写这套教程的过程中，我会验证所有的演示代码，验证过程的BUG以及最新的版本会在[BUG表](document/bug.md)
+中公布，不过由于教程先于框架，最终的框架版本以主页的最新版为主，而正文中所有的版本号都是写教程时的版本号。
 
 然后书写主程序：
 
@@ -82,7 +83,7 @@ public class ApolloUp {
 * [1.6.潘多拉魔盒：异步](document/apollo/006.apollo.async.md)
 * [1.7.珠玉在侧：容错](document/apollo/007.apollo.error.md)
 * [1.8.铁马冰河：细谈Worker](document/apollo/008.apollo.worker.md)
-* [* 1.9.虚之墙：安全](document/apollo/009.apollo.security.md)
+* [1.9.虚之墙：安全](document/apollo/009.apollo.security.md)
 
 ### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
 
