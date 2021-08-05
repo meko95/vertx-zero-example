@@ -71,7 +71,7 @@ public class ApolloUp {
 
 ## 3. 后端教程（Zero）
 
-> 带有的为已经规划的章节，带有`*`的为正在书写的章节。
+>  「P」为Plan，已规划章节，「D」为Do，正在书写的章节，已完成章节无标记。
 
 ### 3.1. 零之遥（Απόλλων）
 
@@ -87,15 +87,15 @@ public class ApolloUp {
 * [1.8.铁马冰河：细谈Worker](document/zero/008.worker.md)
 * [1.9.虚之墙：安全](document/zero/009.security.md)
 * [1.10.珷玞：Jooq](document/zero/010.jooq.md)
-* [] [1.11.笙歌散：JSR330/JSR340](document/zero/011.jsr330.md)
-* [] [- 1.12.阡陌：函数编排](document/zero/012.function.md)
-* [] [- 1.13.始源之地：Vert.x集成](document/zero/013.native.md)
+* 「P」[1.11.笙歌散：JSR330/JSR340](document/zero/011.jsr330.md)
+* 「P」[1.12.阡陌：函数编排](document/zero/012.function.md)
+* 「P」[1.13.始源之地：Vert.x集成](document/zero/013.native.md)
 
 ### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
 
 > Zero Extension
 
-* [x] [2.1.有的放矢：Acl](document/zero-extension/001.acl.md)
+* 「D」[2.1.有的放矢：Acl](document/zero-extension/001.acl.md)
 
 ## COPYRIGHT IN CHINA
 
