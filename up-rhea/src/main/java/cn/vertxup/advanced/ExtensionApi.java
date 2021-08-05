@@ -3,21 +3,17 @@ package cn.vertxup.advanced;
 import io.vertx.up.annotations.Address;
 import io.vertx.up.annotations.EndPoint;
 
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Null;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.QueryParam;
 
 @EndPoint
 @Path("/hi/worker")
-public interface Jsr303Api {
+public interface ExtensionApi {
     @GET
-    @Path("/jsr303-api")
-    @Address("ZERO://WORKER/JSR303/API")
-    String hiApi(
-            @NotNull(message = "{field.notnull}")
+    @Path("/extension-api")
+    @Address("ZERO://WORKER/EXTENSION/API")
+    String hiExtension(
             @QueryParam("name") final String name,
-            @Null(message = "{field.null}")
             @QueryParam("email") final String email);
 }

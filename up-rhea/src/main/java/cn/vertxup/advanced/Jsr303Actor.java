@@ -9,7 +9,7 @@ import io.vertx.up.unity.Ux;
 @Queue
 public class Jsr303Actor {
     @Address("ZERO://WORKER/JSR303/API")
-    public Future<JsonObject> hiSeek(final String name, final String email) {
+    public Future<JsonObject> hiApi(final String name, final String email) {
         return Ux.future(new JsonObject().put("name", name).put("email", email));
     }
 }
