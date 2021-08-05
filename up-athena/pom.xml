@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>up-athena</artifactId>
-    <name>5.～侧庭石：醉月下～.up-athena</name>
+    <name>3.～零之遥：醉月下～.up-athena</name>
     <dependencies>
         <dependency>
             <groupId>mysql</groupId>

@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>up-crius</artifactId>
-    <name>4.～风之殇：将军令～.up-crius</name>
+    <name>5.～风之殇：将军令～.up-crius</name>
     <dependencies>
         <!-- Infix -->
         <dependency>
