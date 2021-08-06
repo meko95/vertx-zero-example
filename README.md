@@ -95,7 +95,8 @@ public class ApolloUp {
 
 > Zero Extension
 
-* 「D」[2.1.有的放矢：Acl](document/zero-extension/001.acl.md)
+* 「P」[2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
+* 「D」[2.2.有的放矢：Acl](document/zero-extension/002.acl.md)
 
 ## COPYRIGHT IN CHINA
 

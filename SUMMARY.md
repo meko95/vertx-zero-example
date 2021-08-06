@@ -18,7 +18,8 @@
     * [1.12.阡陌：函数编排](document/zero/012.function.md)
     * [1.13.始源之地：Vert.x集成](document/zero/013.native.md)
 * [2.侧庭石（Παράπλευρη δικαστική πέτρα）](document/zero-extension/000.index.md)
-    * [2.1.有的放矢：Acl](document/zero-extension/001.acl.md)
+    * [2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
+    * [2.2.有的放矢：Acl](document/zero-extension/002.acl.md)
 
 ## 前端（Zero Ui）
 
