@@ -42,7 +42,8 @@ Zero目前的版本中仅支持Maven，最新版为`0.6.1`，一直以`0`前缀�
 </parent>
 ```
 
-**特殊说明：**写这套教程的过程中，我会验证所有的演示代码，验证过程的BUG以及最新的版本会在[BUG表](document/bug.md)中公布，不过由于教程先于框架，最终的框架版本以主页的最新版为主，而正文中所有的版本号都是写教程时的版本号。
+**特殊说明：**写这套教程的过程中，我会验证所有的演示代码，验证过程的BUG以及最新的版本会在[BUG表](document/bug.md)
+中公布，不过由于教程先于框架，最终的框架版本以主页的最新版为主，而正文中所有的版本号都是写教程时的版本号。
 
 然后书写主程序：
 
@@ -70,24 +71,32 @@ public class ApolloUp {
 
 ## 3. 后端教程（Zero）
 
-> 带有`-`的为已经规划的章节，带有`*`的为正在书写的章节。
+>  「P」为Plan，已规划章节，「D」为Do，正在书写的章节，已完成章节无标记。
 
 ### 3.1. 零之遥（Απόλλων）
 
-* [1.1.启航：Zero](document/apollo/001.apollo.first.md)
-* [1.2.曲径通幽：@Path](document/apollo/002.apollo.uri.md)
-* [1.3.四叶葎：Http方法](document/apollo/003.apollo.method.md)
-* [1.4.思无邪：入参](document/apollo/004.apollo.param.md)
-* [1.5.孤城暗雪：验证](document/apollo/005.apollo.validation.md)
-* [1.6.潘多拉魔盒：异步](document/apollo/006.apollo.async.md)
-* [1.7.珠玉在侧：容错](document/apollo/007.apollo.error.md)
-* [1.8.铁马冰河：细谈Worker](document/apollo/008.apollo.worker.md)
-* [* 1.9.虚之墙：安全](document/apollo/009.apollo.security.md)
+> Zero Framework
+
+* [1.1.启航：Zero](document/zero/001.first.md)
+* [1.2.曲径通幽：@Path](document/zero/002.uri.md)
+* [1.3.四叶葎：Http方法](document/zero/003.method.md)
+* [1.4.思无邪：入参](document/zero/004.param.md)
+* [1.5.孤城暗雪：验证](document/zero/005.validation.md)
+* [1.6.潘多拉魔盒：异步](document/zero/006.async.md)
+* [1.7.珠玉在侧：容错](document/zero/007.error.md)
+* [1.8.铁马冰河：细谈Worker](document/zero/008.worker.md)
+* [1.9.虚之墙：安全](document/zero/009.security.md)
+* [1.10.珷玞：Jooq](document/zero/010.jooq.md)
+* [1.11.笙歌散：JSR330/JSR340](document/zero/011.jsr330.md)
+* 「P」[1.12.阡陌：函数编排](document/zero/012.function.md)
+* 「P」[1.13.始源之地：Vert.x集成](document/zero/013.native.md)
 
 ### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
 
-* [2.1.珷玞：Jooq](document/athena/001.athena.jooq.md)
-* [- 2.2.有的放矢：Acl](document/athena/002.athena.acl.md)
+> Zero Extension
+
+* 「P」[2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
+* 「P」[2.x.有的放矢：Acl](document/zero-extension/003.acl.md)
 
 ## COPYRIGHT IN CHINA
 
