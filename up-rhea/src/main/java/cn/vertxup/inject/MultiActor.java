@@ -18,6 +18,7 @@ public class MultiActor {
     @Address("ZERO://INJECT/MULTI")
     public Future<JsonObject> process(final JsonObject user) {
         final JsonObject processed = this.stub.getData(user);
+
         return Future.succeededFuture(processed);
     }
 }

@@ -15,7 +15,7 @@
     * [1.9.虚之墙：安全](document/zero/009.security.md)
     * [1.10.珷玞：Jooq](document/zero/010.jooq.md)
     * [1.11.笙歌散：JSR330/JSR340](document/zero/011.jsr330.md)
-    * [1.12.阡陌：函数编排](document/zero/012.function.md)
+    * [1.12.阡陌：Ux编排](document/zero/012.function.md)
     * [1.13.始源之地：Vert.x集成](document/zero/013.native.md)
 * [2.侧庭石（Παράπλευρη δικαστική πέτρα）](document/zero-extension/000.index.md)
     * [2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
