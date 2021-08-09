@@ -14,8 +14,7 @@
         <module>up-apollo</module>
         <module>up-rhea</module>
         <module>up-athena</module>
-        <module>up-ares</module>
-        <module>up-crius</module>
+        <module>up-native</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
