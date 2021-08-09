@@ -11,4 +11,14 @@
 
     <artifactId>up-native</artifactId>
     <name>4.～零之遥：源起～.up-native</name>
+    <dependencies>
+        <dependency>
+            <groupId>cn.vertxup</groupId>
+            <artifactId>zero-ifx-native</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>cn.vertxup</groupId>
+            <artifactId>zero-ifx-mongo</artifactId>
+        </dependency>
+    </dependencies>
 </project>
