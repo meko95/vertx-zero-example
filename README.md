@@ -23,6 +23,8 @@ Zero公众号（申请微信群先加微信号：445191171）：
 
 ![](./_image/2020-03-07/2020-03-07-13-24-07.jpg)
 
+如果您喜欢Zero，帮忙点个Star，谢谢：<https://github.com/silentbalanceyh/vertx-zero>
+
 ## 2. 教程
 
 > 我一直在思考使用什么样的方式来写教程，如果告别了曾经那种概念，是不是会写成空中楼阁一样只有代码和“招式”的东西，沉淀下来，还是简单点吧（图、代码、解说一步到位），不过项目名称还是沿用希腊神话中的诸神之名，含义为：以诸神之名开启零之誓约。
@@ -93,6 +95,7 @@ public class ApolloUp {
 * [1.14.俯瞰：配置地图](document/zero/014.configuration.md)
 * [1.15.鼚乎：Shell](document/zero/015.devops.md)
 * [1.16.二向箔：Excel](document/zero/016.excel.md)
+* [1.17.隐匿者：Job](document/zero/017.job.md)
 
 ### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
 

@@ -1,6 +1,0 @@
-server:
-  - name: rs-datum
-    type: http
-    config:
-      port: 6060
-      host: 0.0.0.0
