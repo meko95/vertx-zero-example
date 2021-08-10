@@ -1,0 +1,16 @@
+[
+    {
+        "simple": "t",
+        "name": "test",
+        "description": "2.1. 最简单命令！",
+        "plugin": "cn.vertxup.command.SimpleCommand"
+    },
+    {
+        "simple": "s",
+        "name": "sub",
+        "description": "2.2. 子系统进入",
+        "type": "SYSTEM",
+        "commands": [
+        ]
+    }
+]
