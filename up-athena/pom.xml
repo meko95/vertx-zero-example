@@ -20,6 +20,10 @@
             <groupId>cn.vertxup</groupId>
             <artifactId>zero-ifx-redis</artifactId>
         </dependency>
+        <dependency>
+            <groupId>cn.vertxup</groupId>
+            <artifactId>zero-ifx-excel</artifactId>
+        </dependency>
         <!-- Extension -->
         <dependency>
             <groupId>cn.vertxup</groupId>
