@@ -1,6 +1,9 @@
 excel:
     pen: "io.vertx.tp.plugin.excel.tpl.BlueTpl"
     temp: /tmp/
+    environment:
+        -   name: data.reference.xlsx
+            path: "init/data.reference.xlsx"
     mapping:
         # -------------- System 部分 ----------------
         # Source
