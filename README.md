@@ -73,8 +73,6 @@ public class ApolloUp {
 
 ## 3. 后端教程（Zero）
 
->  「P」为Plan，已规划章节，「D」为Do，正在书写的章节，已完成章节无标记。
-
 ### 3.1. 零之遥（Απόλλων）
 
 > Zero Framework
@@ -97,7 +95,7 @@ public class ApolloUp {
 * [1.16.二向箔：Excel](document/zero/016.excel.md)
 * [1.17.隐匿者：Job](document/zero/017.job.md)
 
-### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
+### 3.2. 风之殇（Πόλεμος ανέμου）
 
 > Zero Extension
 

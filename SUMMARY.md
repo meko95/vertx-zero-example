@@ -21,7 +21,7 @@
     * [1.15.鼚乎：Shell](document/zero/015.devops.md)
     * [1.16.二向箔：Excel](document/zero/016.excel.md)
     * [1.17.隐匿者：Job](document/zero/017.job.md)
-* [2.侧庭石（Παράπλευρη δικαστική πέτρα）](document/zero-extension/000.index.md)
+* [2.风之殇（Πόλεμος ανέμου）](document/zero-extension/000.index.md)
     * [2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
     * [2.x.有的放矢：Acl](document/zero-extension/003.acl.md)
 
