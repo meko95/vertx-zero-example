@@ -1,5 +1,5 @@
 shell:
-    debug: true # 是否开启命令行的Debug模式，Debug模式可以查看堆栈信息
+    debug: false # 是否开启命令行的Debug模式，Debug模式可以查看堆栈信息
     welcome:
         banner: "Zero Shell App  ( γραμμή εντολών )"
         version: "1.0"
