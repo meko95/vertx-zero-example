@@ -109,12 +109,13 @@ public class ApolloUp {
 
 * [3.1.信封模型：Envelop](document/zero/006.async.md#er-tong-yi-mo-xing)
 * [3.2.任务模型：Mission](document/zero/017.job.md#1-6-mission)
-* [3.3.异常查询表](document/zero/007.error.md#er-yi-chang-cha-xun-biao)
-* [3.4.异步模式：5 Style](document/zero/006.async.md#1-2-zero-mo-shi)
-* [3.5.参数签名：Agent组件](document/zero/004.param.md#3-4-shang-xia-wen)
-* [3.6.参数签名：Worker组件](document/zero/008.worker.md##3-2-kuo-zhan-can-shu)
-* [3.7.参数签名：Job组件](document/zero/017.job.md#2-2-on-off)
-* [3.8.查询引擎语法](document/zero/010.jooq.md#san-cha-xun-yin-qing)
+* [3.3.集成模型：Integration]()
+* [3.4.异常查询表](document/zero/007.error.md#er-yi-chang-cha-xun-biao)
+* [3.5.异步模式：5 Style](document/zero/006.async.md#1-2-zero-mo-shi)
+* [3.6.参数签名：Agent组件](document/zero/004.param.md#3-4-shang-xia-wen)
+* [3.7.参数签名：Worker组件](document/zero/008.worker.md##3-2-kuo-zhan-can-shu)
+* [3.8.参数签名：Job组件](document/zero/017.job.md#2-2-on-off)
+* [3.9.查询引擎语法](document/zero/010.jooq.md#san-cha-xun-yin-qing)
 
 ## COPYRIGHT IN CHINA
 
