@@ -104,9 +104,15 @@ public class ApolloUp {
 
 ### 3.3. 䆐之疆（Σύνορα της χώρας）
 
-> 本章节为快速链接，直接查看Zero中的核心数据模型，标题无隐喻。
+> 本章节为快速链接，引导到原文章中核心章节。
 
-* [3.1.统一模型：Envelop](document/zero/006.async.md#er-tong-yi-mo-xing)
+* [3.1.信封模型：Envelop](document/zero/006.async.md#er-tong-yi-mo-xing)
+* [3.2.任务模型：Mission](document/zero/017.job.md#1-6-mission)
+* [3.3.异常查询表](document/zero/007.error.md#er-yi-chang-cha-xun-biao)
+* [3.4.异步模式：5 Style](document/zero/006.async.md#1-2-zero-mo-shi)
+* [3.5.参数签名：Agent组件](document/zero/004.param.md#3-4-shang-xia-wen)
+* [3.6.参数签名：Worker组件](document/zero/008.worker.md##3-2-kuo-zhan-can-shu)
+* [3.7.参数签名：Job组件](document/zero/017.job.md#2-2-on-off)
 
 ## COPYRIGHT IN CHINA
 
