@@ -10,13 +10,5 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>up-crius</artifactId>
-    <name>5.～风之殇：将军令～.up-crius</name>
-    <dependencies>
-        <!-- Infix -->
-        <dependency>
-            <groupId>cn.vertxup</groupId>
-            <artifactId>zero-ifx-shell</artifactId>
-            <version>${zero.version}</version>
-        </dependency>
-    </dependencies>
+    <name>7.～零之遥：天下～.up-crius</name>
 </project>
