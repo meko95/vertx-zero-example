@@ -8,20 +8,17 @@ import io.vertx.up.annotations.On;
 import io.vertx.up.commune.Envelop;
 import io.vertx.up.eon.em.JobType;
 
-@Job(JobType.ONCE)
-public class HiJob {
-
+@Job(value = JobType.PLAN, duration = 300, name = "Plan")
+public class PlanJob {
     @Contract
     private transient Vertx vertx;
+    private transient int counter = 0;
 
     @On
-    public Future<String> on(final Envelop input) {
-        System.out.println("Start: " + this.vertx.hashCode());
+    public Future<String> on(final Envelop envelop) {
+        this.counter++;
+        System.out.println("第 " + this.counter + " 次执行: "
+                + this.vertx.hashCode());
         return Future.succeededFuture("On");
-    }
-
-    public Future<String> off(final Envelop input) {
-        System.out.println("End " + this.vertx.hashCode());
-        return Future.succeededFuture("Off");
     }
 }
