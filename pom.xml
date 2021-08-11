@@ -16,6 +16,7 @@
         <module>up-athena</module>
         <module>up-native</module>
         <module>up-shell</module>
+        <module>up-ares</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>

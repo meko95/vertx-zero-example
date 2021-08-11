@@ -1,5 +1,5 @@
 zero:
-    lime: jooq, cache
+    lime: jooq, cache, excel
     vertx:
         instance:
             -   name: athena-demo
