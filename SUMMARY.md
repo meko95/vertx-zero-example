@@ -32,7 +32,7 @@
     * [3.5.参数签名：Agent组件](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/004.param#3-4-shang-xia-wen)
     * [3.6.参数签名：Worker组件](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/008.worker#3-2-kuo-zhan-can-shu)
     * [3.7.参数签名：Job组件](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/017.job#2-2-on-off)
-    * [3.8.查询引擎语法](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/010.jooq#san-cha-xun-yin-qing)
+    * [3.8.查询引擎语法](010.jooq#san-cha-xun-yin-qing)
 
 ## 前端（Zero Ui）
 
