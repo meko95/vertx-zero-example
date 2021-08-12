@@ -38,5 +38,5 @@
 
 ## 前端（Zero Ui）
 
-* [1.顾河梁（Κοιτάζοντας πίσω στο ποτάμι）](document/zero-ui/000.index.md)
+* [1.影之月（Σάντοου μήνα）](document/zero-ui/000.index.md)
     * [1.1.初赦：Zero Ui](document/zero-ui/001.structure.md)
