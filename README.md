@@ -116,6 +116,7 @@ public class ApolloUp {
 * [3.7.参数签名：Worker组件](document/zero/008.worker.md##3-2-kuo-zhan-can-shu)
 * [3.8.参数签名：Job组件](document/zero/017.job.md#2-2-on-off)
 * [3.9.查询引擎语法](document/zero/010.jooq.md#san-cha-xun-yin-qing)
+* [3.10.Ex: ServiceLoader通道](document/zero-extension/001.extension.md#2-2-tong-dao-ding-yi)
 
 ## COPYRIGHT IN CHINA
 

@@ -35,6 +35,7 @@
     * [3.7.参数签名：Worker组件](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/008.worker#3-2-kuo-zhan-can-shu)
     * [3.8.参数签名：Job组件](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/017.job#2-2-on-off)
     * [3.9.查询引擎语法](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/010.jooq#san-cha-xun-yin-qing)
+    * [3.10.Ex: ServiceLoader通道](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index-1/001.extension#2-2-tong-dao-ding-yi)
 
 ## 前端（Zero Ui）
 
