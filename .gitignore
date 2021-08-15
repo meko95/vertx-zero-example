@@ -106,3 +106,4 @@ configs
 archive/
 file-uploads
 .auto_links.json
+logs
