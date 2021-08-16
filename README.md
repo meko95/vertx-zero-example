@@ -101,7 +101,7 @@ public class ApolloUp {
 > Zero Extension
 
 * [2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
-* [2.x.有的放矢：Acl](document/zero-extension/003.acl.md)
+* [2.2.漆冰裂：Ambient](document/zero-extension/002.ambient.md)
 
 ### 3.3. 䆐之疆（Σύνορα της χώρας）
 
