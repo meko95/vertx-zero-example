@@ -18,7 +18,7 @@
         <module>up-shell</module>
         <module>up-ares</module>
         <module>up-crius</module>
-        <module>up-extension</module>
+        <module>upe-ambient</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
