@@ -25,6 +25,7 @@
 * [2.风之殇（Πόλεμος ανέμου）](document/zero-extension/000.index.md)
     * [2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
     * [2.2.漆冰裂：Ambient](document/zero-extension/002.ambient.md)
+    * [2.3.木叶鸢：CRUD](document/zero-extension/003.crud.md)
 * [3.䆐之疆（Σύνορα της χώρας）](document/zero/000.index.md)
     * [3.1.信封模型：Envelop](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/006.async#er-tong-yi-mo-xing)
     * [3.2.任务模型：Mission](https://lang-yu.gitbook.io/zero/hou-duan-zero/000.index/017.job#1-6-mission)
