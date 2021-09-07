@@ -23,22 +23,24 @@ Zero公众号（申请微信群先加微信号：445191171）：
 
 ![](./_image/2020-03-07/2020-03-07-13-24-07.jpg)
 
+如果您喜欢Zero，帮忙点个Star，谢谢：<https://github.com/silentbalanceyh/vertx-zero>
+
 ## 2. 教程
 
 > 我一直在思考使用什么样的方式来写教程，如果告别了曾经那种概念，是不是会写成空中楼阁一样只有代码和“招式”的东西，沉淀下来，还是简单点吧（图、代码、解说一步到位），不过项目名称还是沿用希腊神话中的诸神之名，含义为：以诸神之名开启零之誓约。
 
-Zero目前的版本中仅支持Maven，最新版为`0.6.1`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
+Zero目前的版本中仅支持Maven，最新版为`0.6.2`，一直以`0`前缀做版本号，是因为我在收集生产环境的运行数据，当然我希望它的`1.0`是经过了生产环境验证的框架，成为一个真正可用的框架，而不是简单的样子货而已。
 
 ### 环境
 
-在您的Maven项目的 `pom.xml` 文件中引入以下配置（推荐使用正式版，0.6.1已发布）：
+在您的Maven项目的 `pom.xml` 文件中引入以下配置（推荐使用正式版，0.6.2已发布）：
 
 ```xml
 
 <parent>
     <artifactId>vertx-import</artifactId>
     <groupId>cn.vertxup</groupId>
-    <version>0.6.1</version>
+    <version>0.6.2</version>
 </parent>
 ```
 
@@ -71,8 +73,6 @@ public class ApolloUp {
 
 ## 3. 后端教程（Zero）
 
->  「P」为Plan，已规划章节，「D」为Do，正在书写的章节，已完成章节无标记。
-
 ### 3.1. 零之遥（Απόλλων）
 
 > Zero Framework
@@ -92,13 +92,32 @@ public class ApolloUp {
 * [1.13.始源之地：Vert.x集成](document/zero/013.native.md)
 * [1.14.俯瞰：配置地图](document/zero/014.configuration.md)
 * [1.15.鼚乎：Shell](document/zero/015.devops.md)
+* [1.16.二向箔：Excel](document/zero/016.excel.md)
+* [1.17.隐匿者：Job](document/zero/017.job.md)
+* [1.18.天下：集成](document/zero/018.integration.md)
 
-### 3.2. 侧庭石（Παράπλευρη δικαστική πέτρα）
+### 3.2. 风之殇（Πόλεμος ανέμου）
 
 > Zero Extension
 
-* 「P」[2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
-* 「P」[2.x.有的放矢：Acl](document/zero-extension/003.acl.md)
+* [2.1.扬帆：Zero Extension](document/zero-extension/001.extension.md)
+* [2.2.漆冰裂：Ambient](document/zero-extension/002.ambient.md)
+* [2.3.木叶鸢：CRUD](document/zero-extension/003.crud.md)
+
+### 3.3. 䆐之疆（Σύνορα της χώρας）
+
+> 本章节为快速链接，引导到原文章中核心章节。
+
+* [3.1.信封模型：Envelop](document/zero/006.async.md#er-tong-yi-mo-xing)
+* [3.2.任务模型：Mission](document/zero/017.job.md#1-6-mission)
+* [3.3.集成模型：Integration](document/zero/018.integration.md#2-1-integration)
+* [3.4.异常查询表](document/zero/007.error.md#er-yi-chang-cha-xun-biao)
+* [3.5.异步模式：5 Style](document/zero/006.async.md#1-2-zero-mo-shi)
+* [3.6.参数签名：Agent组件](document/zero/004.param.md#3-4-shang-xia-wen)
+* [3.7.参数签名：Worker组件](document/zero/008.worker.md##3-2-kuo-zhan-can-shu)
+* [3.8.参数签名：Job组件](document/zero/017.job.md#2-2-on-off)
+* [3.9.查询引擎语法](document/zero/010.jooq.md#san-cha-xun-yin-qing)
+* [3.10.Ex: ServiceLoader通道](document/zero-extension/001.extension.md#2-2-tong-dao-ding-yi)
 
 ## COPYRIGHT IN CHINA
 

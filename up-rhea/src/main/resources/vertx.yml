@@ -2,7 +2,7 @@ zero:
   lime: secure
   vertx:
     instance:
-      - name: zero-hotel
+      - name: zero-native
         options:
           # Fix block 2000 limit issue.
           maxEventLoopExecuteTime: 30000000000

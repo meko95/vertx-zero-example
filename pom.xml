@@ -16,6 +16,9 @@
         <module>up-athena</module>
         <module>up-native</module>
         <module>up-shell</module>
+        <module>up-ares</module>
+        <module>up-crius</module>
+        <module>upe-ambient</module>
     </modules>
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
